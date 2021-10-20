@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="theme">
+     <p class="label">Light Mode</p>
+     <img src="/img/light-icon.png">
+    </div>
+    <div class="options">
+     <button class="dark">dark</button>
+     <button class="light">light</button>
+     <button class="ninja">ninja</button>
+    </div>
+  </body>
+</html>
